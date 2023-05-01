@@ -1,0 +1,8 @@
+[
+{
+  "directory": "D:/Projects/synth/build",
+  "command": "D:\\scoop\\apps\\msys2\\current\\mingw64\\bin\\c++.exe -g -std=gnu++20 -Wall -Wextra -Wpedantic -Werror -o CMakeFiles\\synth.dir\\src\\main.cpp.obj -c D:\\Projects\\synth\\src\\main.cpp",
+  "file": "D:\\Projects\\synth\\src\\main.cpp",
+  "output": "CMakeFiles\\synth.dir\\src\\main.cpp.obj"
+}
+]
