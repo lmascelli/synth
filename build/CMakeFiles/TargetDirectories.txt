@@ -1,3 +1,0 @@
-D:/Projects/synth/build/CMakeFiles/synth.dir
-D:/Projects/synth/build/CMakeFiles/edit_cache.dir
-D:/Projects/synth/build/CMakeFiles/rebuild_cache.dir
